@@ -1,10 +1,9 @@
 # FindDuplicateImage
 
-Type the command after the dollar sign and hit enter:
+Type the command and hit enter:
 
 ```
 $ python3 app.py images/
-
 ```
 
 Result 
